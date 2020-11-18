@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "幸福拉萨",
+  "backgroundColor": "#f4f4f4",
+  "usingComponents": {
+    "uni-icons": "/components/uni-icons/uni-icons"
+  }
+}
